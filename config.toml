@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://ma-al.github.io/hugo-test"
+baseurl = "https://ma-al.github.io/hugo-three/"
 languageCode = "en-us"
 title = "Hugrid - Quack Test"
 theme = "hugrid"
@@ -11,7 +11,7 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "Test test quack quack. hugrid!"
+    title = "Quackeroo Tooo!"
     subtitle = "A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
     author = "Pavel Kanyshev"
     description = "Hugrid - grid theme for Hugo with an expanding image preview."
